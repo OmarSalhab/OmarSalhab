@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding in general
 - 🌱 I’m currently learning C# and Front End Development
 - 💞️ I’m looking to collaborate on some unique and special projects
-- 📫 How to reach me 
+- 📫 How to reach me omarsalhb24@gmail.com
 
 <!---
 OmarSalhab/OmarSalhab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
